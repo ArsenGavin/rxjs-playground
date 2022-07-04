@@ -4,7 +4,7 @@
 const config = {
   server: {
     hmr: {
-      clientPort: 443,
+      clientPort: 3000,
     },
   },
 };
